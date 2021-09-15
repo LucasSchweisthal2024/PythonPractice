@@ -1,4 +1,4 @@
-#define
+
 def topFiveMovies():
     #priting movie
     print("Lord of the Rings")
@@ -30,5 +30,12 @@ def topThreeCheese():
 
 def topThreePencilLeadSizes():
     print("0.7")
-    
+
     print("i dont know any other pecnil sizes")
+
+
+def myNameIs(
+    turtle
+):
+    print(turtle + " is my name")
+myNameIs("Lucas")
