@@ -1,8 +1,11 @@
-#print 1st movie
-print("lord of the rings")
+#define
+def topFiveMovies():
+    #priting movie
+    print("Lord of the Rings")
 
-#print 2nd movie
-print("ready player 1")
+    print("Pirates of the Caribean")
 
-#print 3rd movie
-print("pirates of the carribean")
+    print("Ready Player One")
+
+topFiveMovies()
+
